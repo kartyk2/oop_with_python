@@ -16,7 +16,6 @@ class MyClass(object):
         self.value = val
 
     def get_val(self):
-        # print(self.value)
         return self.value
 
 
